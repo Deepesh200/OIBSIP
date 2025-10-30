@@ -9,7 +9,7 @@ from io import BytesIO
 # -----------------------------
 # Configuration
 # -----------------------------
-API_KEY = "04908205e553815027002a8e882629ed"  # 🔴 Replace with your OpenWeatherMap API Key
+API_KEY = "YOUR_API_KEY"  # 🔴 Replace with your OpenWeatherMap API Key
 BASE_URL = "https://api.openweathermap.org/data/2.5/"
 
 # -----------------------------
